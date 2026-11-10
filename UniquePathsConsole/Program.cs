@@ -64,7 +64,7 @@ while (repeat)
     }
 
     Robot myRobot = new Robot(row, column); //new object and answer
-    Console.WriteLine("===========\n Answer:");
+    Console.WriteLine("===========\nAnswer:");
     Console.WriteLine(myRobot.FindUniquePaths());
     Console.WriteLine("===========\n");
 
