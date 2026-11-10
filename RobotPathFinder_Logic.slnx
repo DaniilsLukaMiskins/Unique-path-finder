@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RobotPathFinder/RobotPathFinder.csproj" />
+  <Project Path="UniquePathsConsole/UniquePathsConsole.csproj" />
+</Solution>
